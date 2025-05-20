@@ -1,7 +1,13 @@
 main{
-    box-shadow: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.619);
     margin: 0 auto;
-    width: 1000px;
+    width: 800px;
     height: 500px;
     align-content: center;
+    text-align: center;
+}
+section{
+    width: 350px;
+    justify-self: center;
+    text-align: justify;
 }
